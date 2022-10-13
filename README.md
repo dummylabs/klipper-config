@@ -1,2 +1,2 @@
 # klipper-config
-My klipper config for FlyingBear Ghost4S
+My [klipper](https://www.klipper3d.org/) config for FlyingBear Ghost4S.
